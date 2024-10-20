@@ -1,0 +1,4 @@
+baseURL = 'https://subbu.org/'
+languageCode = 'en-us'
+title = 'MY Blog'
+theme = "hugo-cards-master"
